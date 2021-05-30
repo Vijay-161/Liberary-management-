@@ -4,3 +4,4 @@ SURVEY OF LIBERARY
 Dictionary Management
 Dictionary Management
 Returned books checklist
+Entry management Section
